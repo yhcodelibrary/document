@@ -1,0 +1,6 @@
+#*.png
+#*.meta
+#*.apk
+
+/work/*
+
